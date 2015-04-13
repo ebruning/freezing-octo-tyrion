@@ -13,3 +13,4 @@ Session.vim
 _site/
 .sass-cache/
 
+config.codekit
